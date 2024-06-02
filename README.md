@@ -36,12 +36,12 @@ $$$#######&$$$$$$$$$$$########&$$$$$$$##$$$$$$$##&$$$$$$&#########$$$$$$$#######
 
 &nbsp;
 
-Here, you can find me on other platforms:
+Here, you can find me on other platforms:  
 *【您可以放心访问这些我在其他站点的账号：】*
 
 <p align="center"><a href="https://github.com/Duawieh">GitHub</a> &nbsp; <a href="https://itch.io/profile/duawieh/">itch.io</a> &nbsp; <a href="https://www.pixiv.net/users/66958913">Pixiv</a> &nbsp; <a href="https://twitter.com/Duawieh_Chaser">X(twitter)</a> &nbsp; <a href="https://www.youtube.com/@Duawieh">YouTube</a></p>
 
-You may prefer to visit me on these sites if you're Chinese or living in China:
+You may prefer to visit me on these sites if you're Chinese or living in China:  
 *【如果是来自国内的朋友，您可能更关心我在这些网站上的账号：】*
 
 <p align="center"><a href="https://space.bilibili.com/391569000">bilibili</a> &nbsp; <a href="https://blog.csdn.net/qq_42097628">CSDN</a> &nbsp; <a href="https://afdian.net/a/duawieh">爱发电</a> &nbsp; <a href="https://www.huashi6.com/painter/51469">触站（画师通）</a></p>
