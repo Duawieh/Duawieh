@@ -27,6 +27,8 @@ $$$#######&$$$$$$$$$$$########&$$$$$$$##$$$$$$$##&$$$$$$&#########$$$$$$$#######
 
 - 👋 Hi there! This is Duawieh, an agricultural student currently.
 
+&nbsp;
+
 - 🔭My Development Tools: ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 <a href="https://github.com/404"><img src="https://blog.17lai.site/medias_webp/line.webp"></a>
