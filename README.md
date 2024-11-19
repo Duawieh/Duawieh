@@ -23,7 +23,7 @@ $$$#######&$$$$$$$$$$$########&$$$$$$$##$$$$$$$##&$$$$$$&#########$$$$$$$#######
                                                                                                                                 
 ```
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duawieh&layout=compact&theme=tokyonight"  width="487" height="320" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duawieh&layout=compact&theme=tokyonight&langs_count=12"  width="487" height="320" />
 
 - 👋 Hi there! This is Duawieh, an agricultural student currently.
 
