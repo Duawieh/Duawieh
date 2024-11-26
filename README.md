@@ -46,7 +46,7 @@ Here, you can find me on other platforms:
 You may prefer to visit me on these sites if you're Chinese or living in China:  
 *【如果是来自国内的朋友，您可能更关心我在这些网站上的账号：】*
 
-<p align="center"><a href="https://space.bilibili.com/391569000">bilibili</a> &nbsp; <a href="https://blog.csdn.net/qq_42097628">CSDN</a> &nbsp; <a href="https://afdian.net/a/duawieh">爱发电</a> &nbsp; <a href="https://www.huashi6.com/painter/51469">触站（画师通）</a></p>
+<p align="center"><a href="https://space.bilibili.com/391569000">bilibili</a> &nbsp; <a href="https://blog.csdn.net/qq_42097628">CSDN</a> &nbsp; <a href="https://afdian.com/a/duawieh">爱发电</a> &nbsp; <a href="https://www.huashi6.com/painter/51469">触站（画师通）</a></p>
 
 
 &nbsp;
